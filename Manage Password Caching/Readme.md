@@ -61,7 +61,7 @@ This script is for educational purposes only and should not be used to compromis
 This script is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 **Author**
-[Dhiresh Kumar](www.dhiresh.info.np)
+<br> <a href="dhiresh.info.np">Dhiresh Kumar </a> <br>
 ------
 
 **Version**
