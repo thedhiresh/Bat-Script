@@ -63,8 +63,7 @@ This script is licensed under the MIT License. See [LICENSE](LICENSE) for detail
 **Author**
 ------
 
-[Your Name]
-
+Dhiresh Kumar [dhiresh.info.np]
 **Version**
 -------
 
